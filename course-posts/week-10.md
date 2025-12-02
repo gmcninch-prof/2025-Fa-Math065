@@ -1,5 +1,5 @@
 ---
-title   : Week 10
+title   : Week 10 (exam 2)
 date    : 2025-11-03
 ---
 
@@ -11,3 +11,5 @@ exam on Friday.
 
 - [review material](/course-content/exam2-review.pdf)   
   [review solutions](/course-content/exam2-review-solutions.pdf)
+
+- [exam2 solutions](/course-content/exam2-solutions.pdf)
