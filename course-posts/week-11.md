@@ -9,3 +9,4 @@ This week, we are going to consider probabilities and related notions.
 
 - [ps 11](/course-content/2025-11-17--ps-11.pdf)
   [solutions](/course-content/2025-11-17--ps-11--solutions.pdf)
+- 
